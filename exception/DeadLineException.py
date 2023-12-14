@@ -1,0 +1,2 @@
+class DeadLineException(Exception):
+    pass
